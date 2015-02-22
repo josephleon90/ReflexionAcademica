@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reflexion Academica</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="TituloAcceder">Seguimiento de resultados académicos</string>
+    <string name="Materias">Materias</string>
+    <string name="Asistencias">Asistencias</string>
+    <string name="Tareas">Tareas</string>
+    <string name="Proyectos">Proyectos</string>
+    <string name="Examenes">Exámenes</string>
+    <string name="Resultados">Resultados</string>
+    <string name="AddNombre">Añadir</string>
+    <string name="ListaMaterias">Lista de materias</string>
+    <string name="ShortNameS">Abreviatura</string>
+    <string name="NameS">Materia</string>
+    <string name="DescripcionLogo">Logo de App</string>
+
+</resources>

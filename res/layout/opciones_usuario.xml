@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+	<LinearLayout
+	android:id="@+id/widget45"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<TextView
+		android:id="@+id/textMaterias"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:text="@string/Materias"
+		android:gravity="center"
+		android:textColor="@color/text_color"
+		android:textStyle="bold"
+		android:onClick="Amaterias"
+		android:clickable="true"
+		android:layout_gravity="center_vertical" />
+	<TextView
+		android:id="@+id/textAsistencias"
+		android:clickable="true"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:text="@string/Asistencias"
+		android:textColor="@color/text_color"
+		android:textStyle="bold"
+		android:onClick="Aasistencias"
+		android:gravity="center" />
+	<TextView
+		android:id="@+id/textTareas"
+		android:clickable="true"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:text="@string/Tareas"
+		android:textColor="@color/text_color"
+		android:textStyle="bold"
+		android:onClick="Atareas"
+		android:gravity="center" />
+	<TextView
+		android:id="@+id/textExamenes"
+		android:clickable="true"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:textColor="@color/text_color"
+		android:text="@string/Examenes"
+		android:textStyle="bold"
+		android:onClick="Aexamenes"
+		android:gravity="center" />
+	<TextView
+		android:id="@+id/textProyectos"
+		android:clickable="true"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:text="@string/Proyectos"
+		android:textColor="@color/text_color"
+		android:textStyle="bold"
+		android:onClick="Aproyectos"
+		android:gravity="center" />
+	<TextView
+		android:id="@+id/textResultados"
+		android:clickable="true"
+		android:layout_width="320dp"
+		android:layout_height="64dp"
+		android:text="@string/Resultados"
+		android:textColor="@color/text_color"
+		android:textStyle="bold"
+		android:gravity="center" />
+	</LinearLayout>

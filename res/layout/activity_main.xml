@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget45"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/logoRA"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/DescripcionLogo"
+        android:src="@drawable/logoreflexion" />
+
+    <Button
+        android:id="@+id/lanzar"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginTop="5dp"
+        android:onClick="Amenu"
+        android:layout_weight="0.22"
+        android:gravity="center"
+        android:text="@string/TituloAcceder"
+        android:textColor="#ff009999"
+        android:textSize="15sp" />
+
+</LinearLayout>
